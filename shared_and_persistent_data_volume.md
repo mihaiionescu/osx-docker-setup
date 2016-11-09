@@ -14,3 +14,8 @@ Create a new Docker volume:
 
 This will create a container based on Postgres' official Docker container, with a data volume named `db_data` linked to the `/Users/mihai/.docker/volumes/db_data` folder.
 
+***Note***: /bin/true - returns a 0 and does nothing if the command was successful.
+
+`docker run -d --volumes-from data-store --name database-container-1 training/postgres`
+
+``
