@@ -4,4 +4,5 @@
 * [Useful Commands](useful_commands.md)
 * [Shared & Persistent Data Volume](shared_and_persistent_data_volume.md)
 * [Initial Thoughts](initial_thoughts.md)
+* Initial Thoughts
 
