@@ -18,4 +18,4 @@ This will create a container based on Postgres' official Docker container, with 
 
 `docker run -d --volumes-from data-store --name database-container-1 training/postgres`
 
-``
+`docker run -d --volumes-from data-store --name perfectward_pg-test_1 perfectward-db-v0.1 postgres`
