@@ -1,5 +1,5 @@
 # Summary
 
 * Initial Thoughts
-* Useful Commands
+* [Useful Commands](useful_commands.md)
 
