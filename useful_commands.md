@@ -6,11 +6,11 @@
 | `docker volume ls -f dangling=true` | list all unused volumes |
 | `docker volume rm <volume_id>` | remove Docker volume by ID |
 | `docker rm -v <container_id>` | remove Docker container and it's associated volume |
-| `docker rm <container_id>` | remove Docker container **without** it's associated colume |
+| `docker rm <container_id>` | remove Docker container **without** it's associated volume |
 | `docker images` | list all local Docker images |
+| `docker rmi <image_id>` | remove a local Docker image |
 | `docker ps` | list Docker containers in use |
 | `docker ps -a` | list all local Docker containers, including the inactive ones. |
-| 0:10 | 1:10 |
 | 0:11 | 1:11 |
 | 0:12 | 1:12 |
 | 0:13 | 1:13 |
