@@ -21,7 +21,7 @@
 | 0:17 | 1:17 |
 | 0:18 | 1:18 |
 | 0:19 | 1:19 |
-| 0:20 | 1:20 |
+| `docker commit -m "message" <container_id> <new_image_name>` | creates a local image based on the given container, specifying the name of the local image |
 | 0:21 | 1:21 |
 | 0:22 | 1:22 |
 
